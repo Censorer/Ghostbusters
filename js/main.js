@@ -30,7 +30,7 @@ jQuery(document).ready(function($) {
 	    		slidesPerView: 1,
 	    		clidesOffsetAfter: 50,
 	    		navigation: {
-	    			nextEl: ".button-next",
+	    			nextEl: ".button-next"
 	    		},
 	    	},
 	    },
